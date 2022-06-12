@@ -1,5 +1,5 @@
-# Anastasia
-====
+# Anastasia Evtiukhina
+
 ## Contacts 
 * Email: anastasia_ll@icloud.com
 * Telegram: nastasia_ll
@@ -21,7 +21,15 @@ function multiply(a, b){
 ```
 
 ## Education 
-University: Volsu, International Relations
-Courses: FreeCodeCamp  
+* University: Volsu, International Relations
+* Courses: FreeCodeCamp  
+
+## Languages 
+
+* Russian: native
+* German: A1
+* English: C1
+
+![EF](https://user-images.githubusercontent.com/107361777/173245826-a0335a39-32c0-4ae3-95ba-2936f000480e.jpg) 
 
 
