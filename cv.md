@@ -20,3 +20,8 @@ function multiply(a, b){
 }
 ```
 
+## Education 
+University: Volsu, International Relations
+Courses: FreeCodeCamp  
+
+
